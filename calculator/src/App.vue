@@ -35,7 +35,7 @@ body {
     text-align: center;
 
     color: #fff;
-    background: linear-gradient(to right, rgb(142, 14, 0), rgb(31, 28, 24));
+    background: linear-gradient(to right, rgb(116, 235, 213), rgb(172, 182, 229));
 }
 
 </style>

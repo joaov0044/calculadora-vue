@@ -20,7 +20,7 @@ export default {
 <style>
 :root {
     --bg-button: #f0f0f0;
-    --border-button: solid 1px #888;
+    --border-button: solid 1px rgb(100, 98, 98);
 }
 
 .button {
@@ -45,11 +45,11 @@ export default {
 }
 
 .button.operation {
-    background-color: #fa8231;
+    background-color: #957beb;
     color: #fff;
 }
 
 .button.operation:active {
-    background-color: #fa8231cc;
+    background-color: #5e49a0;
 }
 </style>
